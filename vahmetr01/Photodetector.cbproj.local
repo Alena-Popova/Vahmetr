@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.203,=C:\DRV\DLL\Lib\Borland\Lusbapi.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.496,D:\vahmetr version 1 - 0\Unit1.cpp=C:\Users\HelenaPopova\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.496,D:\vahmetr version 1 - 0\Unit1.h=C:\Users\HelenaPopova\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.662,D:\vahmetr version 1 - 0\Project2.cbproj=C:\Users\HelenaPopova\Documents\RAD Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.496,D:\vahmetr version 1 - 0\Unit1.dfm=C:\Users\HelenaPopova\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.328,=C:\Users\HelenaPopova\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.507,D:\vahmetr version 1 - 0\Project2.cbproj=D:\vahmetr version 1 - 0\Photodetector.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
